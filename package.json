@@ -10,5 +10,10 @@
   "license": "MIT",
   "keywords": [
     "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-  ]
+  ],
+  "dependencies": {
+    "aaaaaa": "^1.0.11",
+    "aaaaaaaaaa": "^1.0.0",
+    "aaaaaaaaaaaa": "^1.0.0"
+  }
 }
