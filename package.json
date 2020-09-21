@@ -1,11 +1,14 @@
 {
   "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
   "main": "index.js",
   "author": "James Cleveland <jc@blit.cc>",
   "repository": {
     "url": "https://github.com/radiosilence/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  ]
 }
